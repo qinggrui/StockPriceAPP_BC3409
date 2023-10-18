@@ -1,0 +1,6 @@
+Types of models:
+-Yield curve model for Q2: See what is the dependent variables (Years?)
+-Efficient froniter model: Portfolio weight and beta monitoring
+-Sentiment analysis: check news sources for positive or negative sentiment and aggregate by most recent 100 responses
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4019533 (Predict liquidty of bank during stressful situations)
+- Stock price
